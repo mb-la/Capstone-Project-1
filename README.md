@@ -1,2 +1,2 @@
-# Capstone-Project-1
-Highest performing schools depending on average ACT scores
+# Capstone-Project-1: Factors Influencing ACT Scores
+
