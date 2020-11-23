@@ -9,7 +9,7 @@ In this study, I investigated the factors  related to schools’ performance on 
 For more in-depth information about my project please refer to the links below.
 
 1. [Proposal](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Reports/Proposal.pdf)
-2. [Data Wrangling](https://github.com/Meralbalik/Capstone-Project-1/blob/master/%20Data%20Wrangling%20Report.pdf)
+2. [Data Wrangling](https://github.com/Meralbalik/Capstone-Project-1/tree/master/Data%20Wrangling)
    - [Data Wrangling Part 1](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Data%20Wrangling%20Part%201.ipynb)
    -  [Data Wrangling Part 2 ](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Data%20Wrangling%20Part%202.ipynb)
      - [API Request 1](https://github.com/Meralbalik/Capstone-Project-1/blob/master/API%20Request%201.ipynb)
