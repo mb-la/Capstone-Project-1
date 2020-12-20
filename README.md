@@ -16,6 +16,6 @@ For more in-depth information about my project please refer to the links below.
      - [API Request 2](https://github.com/Meralbalik/Capstone-Project-1/blob/master/API%20Request/API%20Request%202.ipynb)
 3. [Exploratory Data Analysis](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Exploratory%20Data%20Analysis.ipynb)
 4. [Statistical Data Analysis](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Statistical%20Data%20Analysis.ipynb)
-5. [Machine Learning Analysis ](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Machine%20Learning%20.ipynb)
+5. [Machine Learning Analysis ](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Machine%20Learning.ipynb)
    - [Machine Learning Analysis Prework](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Machine%20Learning%20Prework.ipynb)
 6. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Milestone%20Report%20.pdf)
