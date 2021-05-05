@@ -6,7 +6,7 @@ The ACT test is designed to assess high school students' general educational dev
 In this study, I investigated the factors  related to schools’ performance on the ACT. Several datasets were used for the analysis. The ACT data to be used was obtained from the 
   [California Department of Education](https://www.cde.ca.gov/ds/sp/ai/). The other two datasets showing the census information about the high schools in California were obtained from 
   [greatschools.org](https://www.greatschools.org/california) website. 
-For more in-depth information about my project please refer to the links below.
+For more in-depth information about my project please refer to the links below. 
 
 1. [Proposal](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Reports/Proposal.pdf)
 2. [Data Wrangling](https://github.com/Meralbalik/Capstone-Project-1/tree/master/Data%20Wrangling)
@@ -18,4 +18,4 @@ For more in-depth information about my project please refer to the links below.
 4. [Statistical Data Analysis](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Statistical%20Data%20Analysis.ipynb)
 5. [Machine Learning Analysis ](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Machine%20Learning.ipynb)
    - [Machine Learning Analysis Prework](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Machine%20Learning%20Prework.ipynb)
-6. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Milestone%20Report%20.pdf)
+6. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-1/blob/master/Reports/Milestone%20Report%20.pdf)
